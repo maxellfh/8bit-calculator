@@ -6,7 +6,7 @@ A simple calculator with a retro 8-bit aesthetic.
 
 - Retro 8-bit inspired UI
 - Blue & dark mode color palette
-- Monocraft font
+- [Monocraft](https://github.com/IdreesInc/Monocraft) font by IndreesInc
 
 ## 💻 Tech Stack
 
